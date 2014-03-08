@@ -1,0 +1,3 @@
+SCRIPT|OpenNC - _slave
+SCRIPT|OpenNC Slave - Appearance
+SCRIPT|OpenNC Slave - Locking
